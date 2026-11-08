@@ -1,0 +1,34 @@
+EMMANUEL UBA — PROFILE SUMMARY (DRAFT)
+
+Computer Science, Lakehead University | Business minor
+Thunder Bay, Ontario
+
+FOCUS
+Structured software, object-oriented thinking, modular systems, and practical automation.
+
+SELECTED PROJECT CONTEXT
+ScalpGawd — Python trading-bot software
+Whale Tracker — blockchain transaction monitoring
+BAYMAX — desktop AI experimentation
+OPS automation — Excel/VBA workflow automation
+Project implementation details and results require repository verification.
+
+EXPERIENCE REPORTED IN PRIOR PORTFOLIO DISCUSSION
+Ontario Public Service — Student Services Assistant, Summer 2025
+Airsource Rogers — Retail Sales Representative, 2026
+LCBO — Customer Service / Wine Specialist
+Moores Clothing for Men — Fashion Consultant
+Synergy Computer Training Centre — Computer Science Intern
+Earlier role dates and all detailed responsibilities require final verification.
+
+REPORTED FOUNDATION
+Python, Java, C, C++, VBA, Git, GitHub, Excel.
+Proficiency has not been independently audited.
+
+LEARNING CANDIDATES / UNVERIFIED
+R, Julia, Haskell, SQL, APIs, databases, CI/CD, cloud deployment.
+
+Project management certification pathway: in progress, completion unverified.
+
+This summary is not a verified final resume. Contact information, full dates,
+education details, and certification information are intentionally pending confirmation.
